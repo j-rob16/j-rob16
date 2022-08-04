@@ -8,6 +8,7 @@ I'm an aspiring Software Developer, currently studying with CodeClan. A highly m
 ##### Creating portfolio projects using
 
 [![JavaScript][JavaScript-pic]][JavaScript-url]
+[![Python][Python-pic]][Python-url]
 [![HTML5][HTML5-pic]][HTML5-url]
 [![CSS3][CSS3-pic]][CSS3-url]
 <br>
@@ -15,6 +16,9 @@ I'm an aspiring Software Developer, currently studying with CodeClan. A highly m
 [![Express][Express-pic]][Express-url]
 [![React][React-pic]][React-url]
 [![Node.js][Node-pic]][Node-url]
+<br>
+[![Flask][Flask-pic]][Flask-url]
+[![Post]]
 
 <hr>
 
@@ -51,6 +55,8 @@ Here are some ideas to get you started:
 [CSS3-url]: https://developer.mozilla.org/en-US/docs/Web/CSS
 [Express-pic]: https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB
 [Express-url]: https://expressjs.com/
+[Flask-pic]: https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white
+[Flask-url]: https://flask.palletsprojects.com/
 [Java-pic]: https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white
 [Java-url]: https://www.java.com/
 [JavaScript-pic]: https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E
@@ -61,5 +67,7 @@ Here are some ideas to get you started:
 [MongoDB-url]: https://www.mongodb.com/
 [Node-pic]: https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white
 [Node-url]: https://nodejs.org/
+[Python-pic]: https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54
+[Python-url]: https://www.python.org/
 [React-pic]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [React-url]: https://reactjs.org/

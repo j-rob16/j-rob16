@@ -24,7 +24,6 @@ I'm an aspiring Software Developer, currently studying with CodeClan. A highly m
 
 <hr>
 
-
 - 📍 Currently located - Hokkaido, Japan.
 -  ⚡ Snowboarding the worlds deepest pow & Surfing Hokkaido beach breaks since '17
 
@@ -44,6 +43,9 @@ Here are some ideas to get you started:
 -->
 
 <!-- Markdown links & images -->
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-blue.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-url]: https://www.linkedin.com/in/016-james-robbins
+
 [CSS3-pic]: https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white
 [CSS3-url]: https://developer.mozilla.org/en-US/docs/Web/CSS
 [Express-pic]: https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB

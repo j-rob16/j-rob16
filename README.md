@@ -1,9 +1,11 @@
-### Hi there 👋
+### Hi, I'm James 👋
 
-- 🔭 I’m currently working on JavaScript & React projects, soon to incorporate Java in to the backend
-- 🌱 I’m currently learning Next.js, React-Spring, Java & lots of the other good stuff
+I'm an aspiring Software Developer, currently studying with CodeClan.
+
+- 🔭 I’m currently working on JavaScript & React portfolio projects
+- 🌱 I’m currently learning Java
 - 📍 Currently located - Hokkaido, Japan.
--  ⚡ Snowboarding Volcanos & Surfing Hokkaido beach breaks since '17
+-  ⚡ Snowboarding the worlds deepest pow & Surfing Hokkaido beach breaks since '17
 
 
 

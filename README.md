@@ -4,21 +4,27 @@ I'm an aspiring Software Developer, currently studying with CodeClan. A highly m
 
 <hr>
 
-### I'm currently working with ..
+### 🔭 I'm currently working with ..
+##### Creating portfolio projects using
 
 [![JavaScript][JavaScript-pic]][JavaScript-url]
+[![HTML5][HTML5-pic]][HTML5-url]
+[![CSS3][CSS3-pic]][CSS3-url]
 <br>
 [![MongoDB][MongoDB-pic]][MongoDB-url]
 [![Express][Express-pic]][Express-url]
 [![React][React-pic]][React-url]
 [![Node.js][Node-pic]][Node-url]
-[![HTML5][HTML5-pic]][HTML5-url]
+
+<hr>
+
+### 🌱 I am learning ..
+
+[![Java][Java-pic]][Java-url]
 
 <hr>
 
 
-- 🔭 I’m currently working on JavaScript & React portfolio projects
-- 🌱 I’m currently learning Java
 - 📍 Currently located - Hokkaido, Japan.
 -  ⚡ Snowboarding the worlds deepest pow & Surfing Hokkaido beach breaks since '17
 
@@ -42,6 +48,8 @@ Here are some ideas to get you started:
 [CSS3-url]: https://developer.mozilla.org/en-US/docs/Web/CSS
 [Express-pic]: https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB
 [Express-url]: https://expressjs.com/
+[Java-pic]: https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white
+[Java-url]: https://www.java.com/
 [JavaScript-pic]: https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E
 [JavaScript-url]: https://www.javascript.com/
 [HTML5-pic]: https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white

@@ -1,6 +1,13 @@
 ### Hi, I'm James 👋
 
-I'm an aspiring Software Developer, currently studying with CodeClan.
+I'm an aspiring Software Developer, currently studying with CodeClan. A highly motivated software developer student, aiming to kickstart my career in a field that offers me the chance to be intellectually stimulated while continuing to develop my skills as a lifelong learner. 
+
+<hr>
+# I'm currently working with ..
+
+
+<hr>
+
 
 - 🔭 I’m currently working on JavaScript & React portfolio projects
 - 🌱 I’m currently learning Java
@@ -21,3 +28,16 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 -->
+
+[CSS3-pic]: https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white
+[CSS3-url]: https://developer.mozilla.org/en-US/docs/Web/CSS
+[Express-pic]: https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB
+[Express-url]: https://expressjs.com/
+[HTML5-pic]: https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white
+[HTML5-url]: https://developer.mozilla.org/en-US/docs/Web/HTML
+[MongoDB-pic]: https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white
+[MongoDB-url]: https://www.mongodb.com/
+[Node-pic]: https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white
+[Node-url]: https://nodejs.org/
+[React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+[React-url]: https://reactjs.org/

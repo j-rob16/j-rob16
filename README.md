@@ -18,7 +18,7 @@ I'm an aspiring Software Developer, currently studying with CodeClan. A highly m
 [![Node.js][Node-pic]][Node-url]
 <br>
 [![Flask][Flask-pic]][Flask-url]
-[![Post]]
+[![Postgres][Postgres-pic]][Postgres-url]
 
 <hr>
 
@@ -66,6 +66,8 @@ Here are some ideas to get you started:
 [MongoDB-url]: https://www.mongodb.com/
 [Node-pic]: https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white
 [Node-url]: https://nodejs.org/
+[Postgres-pic]: https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white
+[Postgres-url]: https://www.postgresql.org
 [Python-pic]: https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54
 [Python-url]: https://www.python.org/
 [React-pic]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB

@@ -1,6 +1,6 @@
 ## Hi, I'm James 👋
 
-I'm an aspiring Software Developer, currently studying with CodeClan. A highly motivated software developer student, aiming to kickstart my career in a field that offers me the chance to be intellectually stimulated while continuing to develop my skills as a lifelong learner. 
+I'm a junior Software Developer, currently studying with CodeClan. A highly motivated software developer student, aiming to kickstart my career in a field that offers me the chance to be intellectually stimulated while continuing to develop my skills as a lifelong learner. 
 
 <hr>
 

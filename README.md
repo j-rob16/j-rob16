@@ -21,16 +21,10 @@ I'm a junior Software Developer, currently studying with CodeClan. A highly moti
 [![Flask][Flask-pic]][Flask-url]
 [![Postgres][Postgres-pic]][Postgres-url]
 
-<hr>
+**<hr>
 
-### 🌱 I am learning ..
+**### 🌱 I am learning ..
 
-
-
-<hr>
-
-- 📍 Currently located - Hokkaido, Japan.
--  ⚡ Snowboarding the worlds deepest pow & Surfing Hokkaido beach breaks since '17
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=j-rob16&layout=compact)](https://github.com/j-rob16/github-readme-stats)
 
 

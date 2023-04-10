@@ -5,7 +5,7 @@ I'm a junior Software Developer, currently studying with CodeClan. A highly moti
 <hr>
 
 ### 🔭 I'm currently working with ..
-##### Creating portfolio projects using
+##### Developing projects using
 
 [![JavaScript][JavaScript-pic]][JavaScript-url]
 [![Java][Java-pic]][Java-url]

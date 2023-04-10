@@ -8,6 +8,7 @@ I'm a junior Software Developer, currently studying with CodeClan. A highly moti
 ##### Creating portfolio projects using
 
 [![JavaScript][JavaScript-pic]][JavaScript-url]
+[![Java][Java-pic]][Java-url]
 [![Python][Python-pic]][Python-url]
 [![HTML5][HTML5-pic]][HTML5-url]
 [![CSS3][CSS3-pic]][CSS3-url]
@@ -24,7 +25,7 @@ I'm a junior Software Developer, currently studying with CodeClan. A highly moti
 
 ### 🌱 I am learning ..
 
-[![Java][Java-pic]][Java-url]
+
 
 <hr>
 
